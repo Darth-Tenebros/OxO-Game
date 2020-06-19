@@ -9,7 +9,7 @@ helper files written by lecture: <br/>
 Game implementation written by me: <br/>
   Thread.py <br/>
   Tictactoe.py <br/>
-  #################
+  #################<br/>
   OXOTextClient.py is the text(command line) based version of the game <br/>
   
 
