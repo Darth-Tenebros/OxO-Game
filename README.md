@@ -21,14 +21,13 @@ Game implementation written by me: <br/>
                 
 # Play the game:
   Ensure that all the necessary files are in the same folder: <br/>
-      GameClient.py
-      GameIni.py
-      GameServer.py
-      OXOGameServer.py
-      Thread.py
-      Tictactoe.py
-      
-      cross.gif, nought.gif and blank.gif
+      GameClient.py <br/>
+      GameIni.py <br/>
+      GameServer.py <br/>
+      OXOGameServer.py <br/>
+      Thread.py <br/>
+      Tictactoe.py <br/>
+      cross.gif <br/>nought.gif <br/>blank.gif
       
   run the OXOGameServer<br/>
   run the Tictactoe game class(then connect to the server - 'localhost')<br/>
