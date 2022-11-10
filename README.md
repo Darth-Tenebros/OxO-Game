@@ -1,4 +1,4 @@
-# OxO-Game
+## OxO-Game
 A basic PyQt5 gui implementation of the tic tac toe board game <br/> <br/>
 helper files written by lecture: <br/>
   GameClient.py <br/>
